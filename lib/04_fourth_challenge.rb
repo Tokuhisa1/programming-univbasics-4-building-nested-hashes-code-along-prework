@@ -27,7 +27,7 @@ def fourth_challenge
         #your hashes here!
         {
           :name => "Steven",
-          :age => "17",
+          :age => "30",
           :attitude => "worried"
         },
         {
